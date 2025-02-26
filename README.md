@@ -1,7 +1,9 @@
 # My_Steganography_Project
 
+This is the project to hide data in image using python programming language
+
 need to run python 3
 
-library used
+library used open cv:
 
-pip install cv2
+pip install opencv-python
